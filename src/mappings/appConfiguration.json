@@ -1,0 +1,143 @@
+[
+  {
+    "id": "21309i1djoi",
+    "roleId": 0,
+    "roleName": "institution",
+    "roleDescription": "Institution role for free plan",
+    "plan": "free",
+    "configuration": {
+      "numberOfStudents": 100,
+      "numberOfExams": 4,
+      "numberOfCourses": 30,
+      "numberOfAds": 0,
+      "trailPeriod": true
+    }
+  },
+  {
+    "id": "12938jd123d",
+    "roleId": 0,
+    "roleName": "institution",
+    "roleDescription": "Institution role for plus plan",
+    "plan": "plus",
+    "configuration": {
+      "numberOfStudents": 1000,
+      "numberOfExams": 10,
+      "numberOfCourses": 100,
+      "numberOfAds": 20,
+      "trailPeriod": false
+    }
+  },
+  {
+    "id": "4212fwede42",
+    "roleId": 0,
+    "roleName": "institution",
+    "roleDescription": "Institution role for premium plan",
+    "plan": "plus",
+    "configuration": {
+      "numberOfStudents": "unlimited",
+      "numberOfExams": "unlimited",
+      "numberOfCourses": "unlimited",
+      "numberOfAds": "unlimited",
+      "trailPeriod": false
+    }
+  },
+  {
+    "id": "1289ejnwqdj",
+    "roleId": 1,
+    "roleName": "instructor",
+    "roleDescription": "Instructor role for free plan",
+    "plan": "free",
+    "configuration": {
+      "numberOfStudents": 5,
+      "numberOfExams": 2,
+      "numberOfCourses": 10,
+      "numberOfAds": 0,
+      "trailPeriod": true
+    }
+  },
+  {
+    "id": "s9ud823efsd",
+    "roleId": 1,
+    "roleName": "instructor",
+    "roleDescription": "Instructor role for plus plan",
+    "plan": "plus",
+    "configuration": {
+      "numberOfStudents": 100,
+      "numberOfExams": 10,
+      "numberOfCourses": 100,
+      "numberOfAds": 20,
+      "trailPeriod": false
+    }
+  },
+  {
+    "id": "23wredfgu65rt",
+    "roleId": 1,
+    "roleName": "instructor",
+    "roleDescription": "Instructor role for premium plan",
+    "plan": "plus",
+    "configuration": {
+      "numberOfStudents": 1000,
+      "numberOfExams": "unlimited",
+      "numberOfCourses": "unlimited",
+      "numberOfAds": 100,
+      "trailPeriod": false
+    }
+  },
+  {
+    "id": "20qew9sjdf43t",
+    "role": 2,
+    "roleName": "student",
+    "roleDescription": "Student role for free plan",
+    "plan": "free",
+    "configuration": {
+      "standardNotesCreation": true,
+      "numberOfCourses": 2,
+      "numberOfExams": "4(2*2)",
+      "quizLimit": 10,
+      "adSupported": true,
+      "advanceQuizes": false,
+      "contentDownload": false,
+      "offLineAccess": false,
+      "aiAnalysis": false,
+      "prioritySupport": false
+    }
+  },
+  {
+    "id": "20093qewjereji",
+    "role": 2,
+    "roleName": "student",
+    "roleDescription": "Student role for plus plan",
+    "plan": "plus",
+    "configuration": {
+      "standardNotesCreation": true,
+      "numberOfCourses": 10,
+      "numberOfExams": "4(10*4)",
+      "quizLimit": 50,
+      "adSupported": false,
+      "advanceQuizes": true,
+      "contentDownload": true,
+      "offLineAccess": true,
+      "aiAnalysis": false,
+      "prioritySupport": false
+    }
+  },
+  {
+    "id": "sdf34erhfgjk7yt",
+    "role": 2,
+    "roleName": "student",
+    "roleDescription": "Student role for premium plan",
+    "plan": "premium",
+    "configuration": {
+      "standardNotesCreation": true,
+      "numberOfCourses": "unlimited",
+      "numberOfExams": "unlimited",
+      "quizLimit": 50,
+      "adSupported": true,
+      "advanceQuizes": true,
+      "contentDownload": true,
+      "offLineAccess": true,
+      "aiAnalysis": true,
+      "prioritySupport": true
+    }
+  }
+]

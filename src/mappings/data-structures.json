@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Brilliant Professional Academy",
+    "email": "bpa@kuizzo.com",
+    "username": "bpa@kuizzo123",
+    "password": "KuizzoInstitution@123",
+    "address": "123 Main Street, Cityville, Countryland",
+    "subscription": "free",
+    "verified": false,
+    "pageContent": {
+      "heroSection": {},
+      "whyUsSection": {},
+      "aboutSection": {},
+      "gallerySection": {},
+      "faqSection": {},
+      "testimonialsSection": {},
+      "contactEmail": "bpa@kuizzo.com"
+    },
+    "studentPermissions": {
+      "canCreateExams": true,
+      "canCreateCourses": true
+    },
+    "instructorPermissions": {
+      "canCreateQuizAndExams": true,
+      "canCreateCourses": false,
+      "canAddStudents": false,
+      "canAddInstructors": false,
+      "canAccessBillingDetails": false
+    },
+    "profileImage": "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "createdOn": "2022-01-01T00:00:00.000Z",
+    "updatedOn": "2022-01-01T00:00:00.000Z",
+    "timeZone": "UTC"
+  },
+  {
+    "title": "Student John Doe",
+    "instituteId": "1",
+    "studentPermissions": {
+      "canCreateExams": true,
+      "canCreateCourses": true
+    },
+    "subscription": "free",
+    "verified": false,
+    "dob": "1990-01-01T00:00:00.000Z",
+    "username": "student@kuizzo123",
+    "email": "student@kuizzo.com",
+    "password": "KuizzoStudent@123",
+    "profileImage": "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "createdOn": "2022-01-01T00:00:00.000Z",
+    "updatedOn": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "Instructor John Doe",
+    "instituteId": "1",
+    "instructorPermissions": {
+      "canCreateQuizAndExams": true,
+      "canCreateCourses": false,
+      "canAddStudents": false,
+      "canAddInstructors": false,
+      "canAccessBillingDetails": false
+    },
+    "email": "instructor@kuizzo.com",
+    "subscription": "free",
+    "verified": false,
+    "username": "instructor@kuizzo123",
+    "password": "KuizzoStudent@123",
+    "profileImage": "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "createdOn": "2022-01-01T00:00:00.000Z",
+    "updatedOn": "2022-01-01T00:00:00.000Z"
+  }
+]

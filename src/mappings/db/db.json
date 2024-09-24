@@ -1,0 +1,335 @@
+{
+  "blogList": [
+    {
+      "id": "10ej29qiwdnoj",
+      "heading": "How to Ask Your Employer to Pay for Your Degree",
+      "date": "May 29, 2024",
+      "imageUrl": "https://images.pexels.com/photos/4240497/pexels-photo-4240497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Chances are, you’ve come across a job posting (or two) that requires a bachelor’s degree, even if the responsibilities don’t align with that kind of education. That’s because employers typically set the standards around credentials.",
+      "category": "Recent"
+    },
+    {
+      "id": "hjklm45tyuiop",
+      "heading": "What should you earn: a certificate or a degree?",
+      "date": "May 29, 2024",
+      "imageUrl": "https://images.pexels.com/photos/4240497/pexels-photo-4240497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Chances are, you’ve come across a job posting (or two) that requires a bachelor’s degree, even if the responsibilities don’t align with that kind of education. That’s because employers typically set the standards around credentials.",
+      "category": "Recent"
+    },
+    {
+      "id": "qwerty67yuiop9",
+      "heading": "What should you earn: a certificate or a degree?",
+      "date": "May 29, 2024",
+      "imageUrl": "https://images.pexels.com/photos/4240497/pexels-photo-4240497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Chances are, you’ve come across a job posting (or two) that requires a bachelor’s degree, even if the responsibilities don’t align with that kind of education. That’s because employers typically set the standards around credentials.",
+      "category": "Popular"
+    },
+    {
+      "id": "asdfg89hjklo0p",
+      "heading": "What should you earn: a certificate or a degree?",
+      "date": "May 29, 2024",
+      "imageUrl": "https://images.pexels.com/photos/4240497/pexels-photo-4240497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Chances are, you’ve come across a job posting (or two) that requires a bachelor’s degree, even if the responsibilities don’t align with that kind of education. That’s because employers typically set the standards around credentials.",
+      "category": "Popular"
+    }
+  ],
+
+  "institutions": [
+    {
+      "id": "10ej29qiwdnoj",
+      "heroSection": {
+        "instituteName": "Brilliant Professional Academy",
+        "instituteUrl": "BPA",
+
+        "instituteDescription": "Chances are, you’ve come across a job posting (or two) that requires a bachelor’s degree, even if the responsibilities don’t align with that kind of education. That’s because employers typically set the standards around credentials.",
+
+        "logo": "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+        "address": "123 Main Street, Cityville, Countryland",
+
+        "phoneNumber": ["+1234567890", "+0987654321"],
+
+        "rating": 4.5,
+
+        "ratingCount": 1200
+      },
+      "courses": [
+        {
+          "id": "21eqwfdgbhnj6y5terfsd",
+          "title": "CS EET",
+          "totalStars": 2,
+          "description": "A student who has got himself registered for Common Proficiency Test 60 days prior to the first day of the month in which examination is to be held can appear in the examination i.e. on or before 1st April and 1st October for appearing in CA FOUNDATION examination.",
+          "imageUrl": "https://images.pexels.com/photos/459403/pexels-photo-459403.jpeg"
+        },
+        {
+          "id": "12eq3rwgdfh6y5terfsd",
+          "title": "CA Foundation",
+
+          "totalStars": 4,
+
+          "description": "A student who has got himself registered for Common Proficiency Test 60 days prior to the first day of the month in which examination is to be held can appear in the examination i.e. on or before 1st April and 1st October for appearing in CA FOUNDATION examination.",
+
+          "imageUrl": "https://images.pexels.com/photos/4195504/pexels-photo-4195504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ],
+      "whyUsCounters": {
+        "data": [
+          {
+            "heading": "Years of experience",
+            "number": 10
+          },
+          {
+            "heading": "Successful Students",
+            "number": 200
+          },
+          {
+            "heading": "Results Every Year",
+            "number": 500
+          }
+        ],
+        "hidden": false
+      },
+      "aboutUs": {
+        "data": {
+          "title": "About Us Title",
+          "images": [
+            "https://images.pexels.com/photos/5427659/pexels-photo-5427659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+            "https://images.pexels.com/photos/7805671/pexels-photo-7805671.jpeg?auto=compress&cs=tinysrgb&w=800"
+          ],
+          "description": "ABC University provided me with the skills and knowledge needed to succeed in my career. This institution's comprehensive curriculum and experienced faculty members played a pivotal role in shaping my professional journey. The coursework was meticulously designed to cover all essential aspects of my field, ensuring that I gained a thorough understanding of both theoretical concepts and practical applications.\n\nEngaging in various projects and hands-on activities allowed me to apply what I learned in real-world scenarios, enhancing my problem-solving abilities and critical thinking skills. The university's commitment to fostering a collaborative learning environment further enriched my experience, as it encouraged teamwork and the exchange of ideas among peers from diverse backgrounds.\n\nMoreover, the support services provided by ABC University, such as career counseling, workshops, and networking events, were instrumental in guiding me toward the right career path. These resources not only helped me identify my strengths and interests but also connected me with industry professionals and potential employers. The mentorship I received from professors and alumni was invaluable, offering insights and advice that proved crucial in navigating the professional landscape.\n\nIn summary, ABC University equipped me with a solid foundation of knowledge and skills, bolstered by practical experience and robust support, enabling me to achieve success in my career.\n "
+        },
+
+        "hidden": false
+      },
+      "gallerySection": {
+        "data": [
+          "https://images.pexels.com/photos/1709003/pexels-photo-1709003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+          "https://images.pexels.com/photos/889545/pexels-photo-889545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+          "https://images.pexels.com/photos/1245055/pexels-photo-1245055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+          "https://images.pexels.com/photos/1472334/pexels-photo-1472334.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+          "https://images.pexels.com/photos/1472334/pexels-photo-1472334.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+          "https://images.pexels.com/photos/1472334/pexels-photo-1472334.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        ],
+        "hidden": false
+      },
+      "faqSection": {
+        "data": [
+          {
+            "id": "123ewesfdf",
+            "question": "What is the admission process?",
+            "answer": "The admission process involves submitting an application, appearing for an entrance test, and attending an interview."
+          },
+          {
+            "id": "3erwsdfs3qqwscd",
+            "question": "What courses are offered?",
+            "answer": "We offer a wide range of courses in various fields including science, arts, and technology."
+          }
+        ],
+        "hidden": false
+      },
+      "testimonialSection": {
+        "data": [
+          {
+            "imageUrl": "https://images.pexels.com/photos/837358/pexels-photo-837358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "title": "Great Experience",
+            "testimonial": "I had a wonderful experience at ABC University. The faculty is amazing and the campus is beautiful.",
+            "ratings": 5
+          },
+          {
+            "imageUrl": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "title": "Highly Recommend",
+            "testimonial": "ABC University provided me with the skills and knowledge needed to succeed in my career.",
+            "ratings": 4
+          },
+          {
+            "imageUrl": "https://images.pexels.com/photos/837358/pexels-photo-837358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "title": "Great Experience",
+            "testimonial": "I had a wonderful experience at ABC University. The faculty is amazing and the campus is beautiful.",
+            "ratings": 5
+          },
+          {
+            "imageUrl": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "title": "Highly Recommend",
+            "testimonial": "ABC University provided me with the skills and knowledge needed to succeed in my career.",
+
+            "ratings": 4
+          }
+        ],
+        "hidden": false
+      },
+      "contactUsEmail": "Kuizzo@gmail.com",
+      "visible": true
+    },
+    {
+      "id": "092kasdasdwmi12j90ck",
+      "heroSection": {
+        "instituteName": "ABC University",
+
+        "instituteDescription": "Chances are, you’ve come across a job posting (or two) that requires a bachelor’s degree, even if the responsibilities don’t align with that kind of education. That’s because employers typically set the standards around credentials.",
+        "instituteUrl": "ABCU",
+
+        "logo": "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+        "address": "123 Main Street, Cityville, Countryland",
+
+        "phoneNumber": ["+1234567890", "+0987654321"],
+
+        "rating": 4.5,
+
+        "ratingCount": 1200
+      },
+      "courses": [
+        {
+          "id": "234werf56ett46yrfgr",
+          "title": "CS - EET",
+          "totalStars": 2,
+          "description": "A student who has got himself registered for Common Proficiency Test 60 days prior to the first day of the month in which examination is to be held can appear in the examination i.e. on or before 1st April and 1st October for appearing in CA FOUNDATION examination.",
+          "imageUrl": "https://images.pexels.com/photos/459403/pexels-photo-459403.jpeg"
+        },
+
+        {
+          "id": "309werjfidnvonj",
+          "title": "CA - Foundation",
+
+          "totalStars": 4,
+
+          "description": "A student who has got himself registered for Common Proficiency Test 60 days prior to the first day of the month in which examination is to be held can appear in the examination i.e. on or before 1st April and 1st October for appearing in CA FOUNDATION examination.",
+
+          "imageUrl": "https://images.pexels.com/photos/4195504/pexels-photo-4195504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ],
+      "whyUsCounters": {
+        "data": [
+          {
+            "heading": "Years of experience",
+            "number": 10
+          },
+          {
+            "heading": "Successful Students",
+            "number": 200
+          },
+          {
+            "heading": "Results Every Year",
+            "number": 500
+          }
+        ],
+        "hidden": false
+      },
+      "aboutUs": {
+        "data": {
+          "title": "About Us Title",
+          "images": [
+            "https://images.pexels.com/photos/5427659/pexels-photo-5427659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+            "https://images.pexels.com/photos/7805671/pexels-photo-7805671.jpeg?auto=compress&cs=tinysrgb&w=800"
+          ],
+          "description": "ABC University provided me with the skills and knowledge needed to succeed in my career. This institution's comprehensive curriculum and experienced faculty members played a pivotal role in shaping my professional journey. The coursework was meticulously designed to cover all essential aspects of my field, ensuring that I gained a thorough understanding of both theoretical concepts and practical applications.\n\nEngaging in various projects and hands-on activities allowed me to apply what I learned in real-world scenarios, enhancing my problem-solving abilities and critical thinking skills. The university's commitment to fostering a collaborative learning environment further enriched my experience, as it encouraged teamwork and the exchange of ideas among peers from diverse backgrounds.\n\nMoreover, the support services provided by ABC University, such as career counseling, workshops, and networking events, were instrumental in guiding me toward the right career path. These resources not only helped me identify my strengths and interests but also connected me with industry professionals and potential employers. The mentorship I received from professors and alumni was invaluable, offering insights and advice that proved crucial in navigating the professional landscape.\n\nIn summary, ABC University equipped me with a solid foundation of knowledge and skills, bolstered by practical experience and robust support, enabling me to achieve success in my career.\n "
+        },
+
+        "hidden": false
+      },
+      "gallerySection": {
+        "data": [
+          "https://images.pexels.com/photos/1709003/pexels-photo-1709003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+          "https://images.pexels.com/photos/889545/pexels-photo-889545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+          "https://images.pexels.com/photos/1245055/pexels-photo-1245055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+          "https://images.pexels.com/photos/1472334/pexels-photo-1472334.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+          "https://images.pexels.com/photos/1472334/pexels-photo-1472334.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+          "https://images.pexels.com/photos/1472334/pexels-photo-1472334.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        ],
+        "hidden": false
+      },
+      "faqSection": {
+        "data": [
+          {
+            "id": "123ewesfdf",
+            "question": "What is the admission process?",
+            "answer": "The admission process involves submitting an application, appearing for an entrance test, and attending an interview."
+          },
+          {
+            "id": "3erwsdfs3qqwscd",
+            "question": "What courses are offered?",
+            "answer": "We offer a wide range of courses in various fields including science, arts, and technology."
+          }
+        ],
+        "hidden": false
+      },
+      "testimonialSection": {
+        "data": [
+          {
+            "imageUrl": "https://images.pexels.com/photos/837358/pexels-photo-837358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "title": "Great Experience",
+            "testimonial": "I had a wonderful experience at ABC University. The faculty is amazing and the campus is beautiful.",
+            "ratings": 5
+          },
+          {
+            "imageUrl": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "title": "Highly Recommend",
+            "testimonial": "ABC University provided me with the skills and knowledge needed to succeed in my career.",
+            "ratings": 4
+          },
+          {
+            "imageUrl": "https://images.pexels.com/photos/837358/pexels-photo-837358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "title": "Great Experience",
+            "testimonial": "I had a wonderful experience at ABC University. The faculty is amazing and the campus is beautiful.",
+            "ratings": 5
+          },
+          {
+            "imageUrl": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "title": "Highly Recommend",
+            "testimonial": "ABC University provided me with the skills and knowledge needed to succeed in my career.",
+
+            "ratings": 4
+          }
+        ],
+        "hidden": false
+      },
+      "contactUsEmail": "Kuizzo@gmail.com",
+      "visible": true
+    }
+  ],
+
+  "users": [
+    {
+      "id": "10ej29qiwdnoj",
+      "role": "institution",
+      "email": "vishesh@gmail.com",
+      "username": "KuizzoInstitution",
+      "password": "KuizzoInstitution@123",
+      "phone": "1234567890",
+      "address": "this is a dummy address",
+      "picture": "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "10ej29qiwdnoj",
+      "role": "student",
+      "email": "kuizzostudent@gmail.com",
+      "username": "KuizzoStudent",
+      "password": "KuizzoStudent@123",
+      "phone": "1234567890",
+      "address": "this is a dummy address",
+      "picture": "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "10ej29qiwdnoj",
+      "role": "instructor",
+      "email": "kuizzoinstructor@gmail.com",
+      "username": "KuizzoInstructor",
+      "password": "KuizzoInstructor@123",
+      "phone": "1234567890",
+      "address": "this is a dummy address",
+      "picture": "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ]
+}

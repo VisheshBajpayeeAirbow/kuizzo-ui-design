@@ -1,0 +1,53 @@
+export const PATHS = {
+  homePage: "/",
+  signin: "/signin",
+  signup: "/signup",
+  institutionHomePage: "/institution",
+  blogListing: "/blog-listing",
+  pricing: "/pricing",
+  examsPage: "/exams",
+  institutionPage: "/institution-page",
+  blogPage: "/blog-listing",
+  aboutUsPage: "/about-us",
+  contactUsPage: "/contact-us",
+  dashboard: "/dashboard",
+  checkout: "/checkout",
+  institutionDashboard: "/institution-dashboard",
+  instructorDashboard: "/instructor-dashboard",
+  studentDashboard: "/student-dashboard",
+
+  // institution paths
+  institutionDashboardOverview: "/institution-dashboard",
+  createNewCourses: "/institution-dashboard/create-new-courses",
+  courseList: "/institution-dashboard/course-list",
+  studentManager: "/institution-dashboard/student-manager",
+  instructorManager: "/institution-dashboard/instructor-manager",
+  studentDetails: "/institution-dashboard/student-details",
+  instructorDetails: "/institution-dashboard/instructor-details",
+  quizGenerator: "/institution-dashboard/quiz-generator",
+  examGenerator: "/institution-dashboard/exam-generator",
+  editInstitution: "/institution-dashboard/edit-institute",
+  createQuestions: "/institution-dashboard/create-questions",
+  quizList: "/institution-dashboard/quiz-list",
+  examList: "/institution-dashboard/exam-list",
+  exploreCourses: "/institution-dashboard/explore-courses",
+  showQuestions: "/institution-dashboard/review-questions",
+  quizAndExamList: "/institution-dashboard/quiz-and-exam-list",
+  editCourse: "/institution-dashboard/edit-course",
+
+  studentList: "/institution-dashboard/student-list",
+  instructorList: "/institution-dashboard/instructor-list",
+
+  // instructor paths
+  instructorMyCourses: "/instructor-dashboard/my-courses",
+  instructorstudentManager: "/instructor-dashboard/student-manager",
+  instructorCreateNewCourse: "/instructor-dashboard/create-new-course",
+  instructorExamGenerator: "/instructor-dashboard/exam-generator",
+  instructorQuizGenerator: "/instructor-dashboard/quiz-generator",
+
+  // student paths
+  studentTestAnalyitcs: "/student-dashboard/student-analytics",
+  studentQuestionsPage: "/student-dashboard/questions-list",
+  studentExamAndQuizList: "/student-dashboard/exam-and-quiz-list",
+  studentAnswerList: "/student-dashboard/answers-list",
+};
