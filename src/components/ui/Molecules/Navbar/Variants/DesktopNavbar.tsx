@@ -25,7 +25,7 @@ const DesktopNavbar = () => {
   const router = useRouter();
 
   return (
-    <nav className="hidden md:flex items-center md:justify-between bg-transparent lg:w-[1400px] md:w-[90%] md:mx-auto p-[0.88rem] z-20">
+    <nav className="hidden md:flex items-center md:justify-between bg-transparent lg:w-[1400px] md:w-[88%] md:mx-auto p-[0.88rem] z-20">
       <div className="flex items-center  gap-[2.19rem]">
         {/* logo */}
         <div>

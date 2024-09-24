@@ -14,11 +14,11 @@ import { browseByExamsList } from "@/mappings";
 const BrowseByExamSection = () => {
   return (
     <div className=" md:rounded-tr-[100px] md:rounded-bl-[100px] bg-background">
-      <section className=" lg:w-[1400px] md:w-[90%] md:mx-auto">
-        <div className="flex flex-col items-center mt-[3.69rem] gap-[0.81rem] md:gap-[1.75rem]">
+      <section className=" lg:w-[1400px] md:w-[86%] md:mx-auto">
+        <div className="flex flex-col items-center mt-[78px]">
           <Heading
             heading="Browse By Exams"
-            className="text-[2.1875rem] md:text-[3.125rem] font-semibold text-heading"
+            className="text-[2.1875rem] md:text-[3.125rem] leading-[57px] font-semibold text-heading mb-[12px]"
           />
           <p className="text-sub-heading text-[1rem] md:text-[25px]">
             Resources across various exams.
@@ -26,7 +26,7 @@ const BrowseByExamSection = () => {
         </div>
 
         {/* card section */}
-        <div className=" px-[1.69rem] md:px-0 pt-[3.37rem] pb-[4rem] md:pt-[4.31rem] md:pb-[6.69rem]">
+        <div className=" px-[1.69rem] md:px-0 pt-[3.37rem] pb-[4rem] md:pt-[65px] md:pb-[107px]">
           <Carousel>
             <CarouselContent>
               {browseByExamsList.map(

@@ -11,22 +11,22 @@ import { useTheme } from "next-themes";
 const ExploreTopFlashCardsSection = () => {
   const { resolvedTheme } = useTheme();
   return (
-    <section className="lg:w-[1400px] md:w-[90%] md:mx-auto relative">
+    <section className="lg:w-[1400px] md:w-[86%] md:mx-auto relative">
       <div className="text-center pt-[3.56rem] md:pt-[7.62rem] md:text-start">
         <Heading
           className="text-[2.1875rem] leading-[115%] md:text-[50px] text-center md:text-left text-nowrap  font-semibold text-heading"
           heading="Explore top flashcards"
         />
-        <p className="text-sub-heading text-[1rem] leading-[1.5rem] md:text-[1.5625rem] mt-[0.5rem]">
+        <p className="text-sub-heading text-[1rem] leading-[1.5rem] md:text-[1.5625rem] mt-[18px]">
           Resources across various exams.
         </p>
       </div>
       <Image
         src={Polygon}
         alt="polygon"
-        className="hidden md:block w-[8.33763rem] h-[5.15488rem] absolute top-[5.31rem] right-[7.51rem]"
+        className="hidden md:block w-[80px] h-[80px] absolute top-[102px] right-[63px]"
       />
-      <div className="flex flex-col md:flex-row gap-[1.88rem] md:gap-[1.56rem] px-[1.69rem] md:px-0  py-[3.56rem] md:py-0 md:pt-[4.31rem] md:pb-[6.94rem]">
+      <div className="flex flex-col md:flex-row gap-[1.88rem] md:gap-[1.56rem] px-[1.69rem] md:px-0  py-[3.56rem] md:py-0 md:pt-[4.40rem] md:pb-[5.54rem]">
         <Card
           cardType="explore-flashcard"
           title="Ut enim ad minima veniam, quis nostrum exercitation"

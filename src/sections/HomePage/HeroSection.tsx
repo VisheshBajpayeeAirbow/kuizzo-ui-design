@@ -37,10 +37,10 @@ const HeroSection = () => {
   };
 
   return (
-    <section className="tablet:min-h-[45vh] md:min-h-[95vh] lg:min-h-[90vh] md:mt-6 lg:mt-20 ">
+    <section className="md:mt-[55px] lg:mt-20 mb-[154px]">
       {/* gradiant image */}
       <Image
-        className="hidden md:block absolute  md:right-16 lg:right-48 md:top-28 lg:top-40 z-30"
+        className="hidden md:block absolute  md:right-16 lg:right-48 md:top-[138px] lg:top-40 z-30"
         width={200}
         height={200}
         style={{ height: "auto", width: "auto" }}
@@ -65,10 +65,10 @@ const HeroSection = () => {
       />
       <section className=" flex justify-center">
         {/* rounded div */}
-        <div className="z-20 lg:w-[1400px] tablet:w-[90%] tablet:mx-auto w-[23.625rem] h-[35.6875rem] tablet:h-[22rem] md:min-h-[31.0625rem] mt-[6.19rem] md:mt-[0rem] mx-[1.69rem]  mb-[6.88rem] md:mb-0 flex flex-col items-center md:justify-center  bg-transparent border-4 tablet:border-8 border-hero-border rounded-[50px] tablet:rounded-[100px] relative">
-          <div className=" w-[21.5625rem] tablet:w-[50.245rem] md:w-[66.4375rem] mt-[3.5rem] md:mt-[0rem]">
+        <div className="z-20 lg:w-[1400px] tablet:w-[86%] tablet:mx-auto mt-[6.19rem] md:mt-[0rem] mx-[1.69rem] mb-[6.88rem] md:mb-0 flex flex-col items-center md:justify-center  bg-transparent border-4 tablet:border-[8px] border-hero-border rounded-[50px] tablet:rounded-[55px] relative pt-[48px] pb-[121px]">
+          <div className=" w-[21.5625rem] tablet:w-[50.245rem] md:w-[77rem] mt-[3.5rem] md:mt-[0rem]">
             <h1
-              className={`text-heading text-[2.1875rem] md:text-[4.375rem] text-center font-bold  font-caladea`}
+              className={`text-heading text-[2.1875rem] md:text-[4.375rem] md:leading-[80px] text-center font-bold mb-[30px] font-caladea`}
             >
               Teaching in the Internet age <br className="hidden md:block" />{" "}
               means we must teach{" "}
@@ -87,19 +87,19 @@ const HeroSection = () => {
               </div>
             </h1>
             <p className="text-sub-heading text-[1.3rem] leading-[150%] md:text-[25px] text-center text-wrap md:w-3/4 lg:w-full md:mx-auto">
-              Provides you with the latest online learning system and materials!
+              Provides you with the latest online learning system and material that help your
             </p>
           </div>
 
           <div>
             <Image
-              className="md:scale-130 lg:scale-150 hidden tablet:inline-block tablet:left-[10%] absolute md:left-[6%] lg:left-[8%] -bottom-28"
+              className="md:scale-130 lg:scale-150 hidden tablet:inline-block tablet:left-[10%] absolute md:left-[3.5%] lg:left-[8%] -bottom-24"
               src={ImageOne}
               alt="img"
               priority
             />
             <Image
-              className="md:scale-130 lg:scale-150 hidden tablet:inline-block tablet:right-[10%] absolute md:right-[6%] lg:right-[8%] -bottom-28"
+              className="md:scale-130 lg:scale-150 hidden tablet:inline-block tablet:right-[10%] absolute md:right-[3.8%] lg:right-[8%] -bottom-24"
               src={ImageTwo}
               alt="img"
             />
@@ -108,10 +108,10 @@ const HeroSection = () => {
           {/* bottom div */}
           <div
             style={{ zIndex: 100 }}
-            className="flex flex-col md:flex-row md:justify-center gap-4  absolute bottom-16 md:bottom-0 left-1/2  -translate-x-1/2 translate-y-1/2 "
+            className="flex flex-col md:flex-row md:justify-center gap-[25px]  absolute bottom-16 md:bottom-0 left-1/2  -translate-x-1/2 translate-y-1/2 "
           >
             <Image
-              className="hidden md:block pt-1"
+              className="hidden md:block pt-2"
               src={
                 resolvedTheme === "dark" || resolvedTheme === undefined
                   ? ArrowLeftDark
@@ -124,7 +124,7 @@ const HeroSection = () => {
             />
             <Button
               id="institution"
-              className="cursor-pointer"
+              className="cursor-pointer py-[20px] px-[38px]"
               onClick={(e) => handleNavigateToSignup(e)}
               btnColor="green"
             >
@@ -132,7 +132,7 @@ const HeroSection = () => {
             </Button>
             <Button
               id="instructor"
-              className="cursor-pointer"
+              className="cursor-pointer py-[20px] px-[38px]"
               btnColor="orange"
               onClick={(e) => handleNavigateToSignup(e)}
             >
@@ -140,14 +140,14 @@ const HeroSection = () => {
             </Button>
             <Button
               id="student"
-              className="cursor-pointer"
+              className="cursor-pointer py-[20px] px-[38px]"
               btnColor="purple"
               onClick={(e) => handleNavigateToSignup(e)}
             >
               Join as Student
             </Button>
             <Image
-              className="hidden md:inline-block pt-1"
+              className="hidden md:inline-block pt-2"
               src={
                 resolvedTheme === "dark" || resolvedTheme === undefined
                   ? ArrowRightDark

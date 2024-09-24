@@ -58,12 +58,12 @@ const TestimonialsSection: React.FC = () => {
       <Image
         src={Polygon}
         alt="polygon-testimonials"
-        className="absolute right-28 top-16 hidden md:block"
+        className="absolute right-[10.2rem] top-[5.5rem] hidden md:block"
       />
-      <div className="flex flex-col items-center gap-[0.56rem] pt-[2.62rem]">
+      <div className="flex flex-col items-center gap-[0.56rem] pt-[5.6rem]">
         <Heading
           heading="Testimonials"
-          className="text-[2.1875rem] md:text-[50px] font-semibold text-heading"
+          className="text-[2.1875rem] md:text-[50px] font-semibold text-heading leading-[115%]"
         />
         <p className="text-sub-heading text-[1rem] md:text-[1.5625rem] text-nowrap">
           What people say about us

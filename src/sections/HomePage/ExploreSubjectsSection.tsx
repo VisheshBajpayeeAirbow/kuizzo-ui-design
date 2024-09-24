@@ -10,18 +10,18 @@ import EngineeringIcon from "@/assets/icons/engineering_icon.svg";
 
 const ExploreSubjectsSection = () => {
   return (
-    <section className=" md:w-[90%] lg:w-[1400px] md:mx-auto">
+    <section className=" md:w-[86%] lg:w-[1400px] md:mx-auto">
       <div className="flex flex-col  items-center  pt-[3.94rem]  md:pt-[8rem] gap-[0.94rem] md:gap-[1.56rem] ">
         <Heading
           heading=" Explore Subjects"
           className="text-[2.1875rem] md:text-[3.125rem] font-bold leading-[115%] text-heading"
         />
-        <p className="text-sub-heading md:text-[1.5625rem] text-nowrap">
+        <p className="text-sub-heading md:text-[1.5625rem] text-nowrap mt-[-16px]">
           Click on the categories and explore all courses
         </p>
       </div>
 
-      <div className="grid grid-cols-2 px-[1.69rem] md:px-0 gap-[1.07rem] content-center md:flex md:justify-center lg:justify-center md:gap-[1.75rem] mt-[3.93rem] md:mt-[5.06rem] mb-[3.69rem] md:mb-[7.38rem]">
+      <div className="grid grid-cols-2 px-[1.69rem] md:px-0 gap-[1.07rem] content-center md:flex md:justify-center lg:justify-center md:gap-[1.75rem] mt-[3.93rem] md:mt-[5.06rem] mb-[3.69rem] md:mb-[8rem]">
         <CardExploreSubjects
           cardIcon={ScienceIcon}
           iconBgColor="bg-app-blue"

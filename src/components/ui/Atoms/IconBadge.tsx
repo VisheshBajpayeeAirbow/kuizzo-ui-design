@@ -6,7 +6,7 @@ const sizeClasses = {
   small: "w-[2rem] h-[2rem]",
   medium: "w-12 h-12",
   large: "w-[4.49013rem] h-[4.375rem]",
-  xl: "w-[5.3125rem] h-[5.3125rem]",
+  xl: "w-[70px] h-[70px]",
 };
 
 const vectorSizeClasses = {

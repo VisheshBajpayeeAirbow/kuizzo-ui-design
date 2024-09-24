@@ -38,7 +38,7 @@ export default function Accordian({ data }: IAccordionProps) {
                     >
                       <DisclosurePanel
                         static
-                        className="mt-[2.12rem] text-sm text-sub-heading md:text-[20px] leading-[150%]"
+                        className="mt-[3rem] text-sm text-sub-heading md:text-[20px] leading-[150%]"
                       >
                         {answer}
                       </DisclosurePanel>

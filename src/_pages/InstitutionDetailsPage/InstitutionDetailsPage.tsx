@@ -41,7 +41,7 @@ const InstitutionHomePage = ({ slug }: { slug: string }) => {
 
   if (!pageContent) return <div>No data available</div>;
 
-  if (!pagePublished) return <div>Page is not Published Yet</div>;
+  // if (!pagePublished) return <div>Page is not Published Yet</div>;
 
   const {
     aboutSection,
